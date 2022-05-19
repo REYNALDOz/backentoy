@@ -1,0 +1,2692 @@
+2022-05-10 23:35:01:351 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/utils/tokenManager.ts[0m:[93m1[0m:[93m15[0m - [91merror[0m[90m TS2305: [0mModule '"jsonwebtoken"' has no exported member 'UserIDJwtPayload'.[39m
+
+[31m[7m1[0m import jwt, { UserIDJwtPayload } from "jsonwebtoken";[39m
+[31m[7m [0m [91m              ~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/utils/tokenManager.ts[0m:[93m1[0m:[93m15[0m - [91merror[0m[90m TS2305: [0mModule '"jsonwebtoken"' has no exported member 'UserIDJwtPayload'.[39m
+
+[31m[7m1[0m import jwt, { UserIDJwtPayload } from "jsonwebtoken";[39m
+[31m[7m [0m [91m              ~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/utils/tokenManager.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-14198443098332847.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-14198443098332847.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-10 23:35:30:3530 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/utils/tokenManager.ts[0m:[93m1[0m:[93m15[0m - [91merror[0m[90m TS2305: [0mModule '"jsonwebtoken"' has no exported member 'UserIDJwtPayload'.[39m
+
+[31m[7m1[0m import jwt, { UserIDJwtPayload } from "jsonwebtoken";[39m
+[31m[7m [0m [91m              ~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/utils/tokenManager.ts[0m:[93m1[0m:[93m15[0m - [91merror[0m[90m TS2305: [0mModule '"jsonwebtoken"' has no exported member 'UserIDJwtPayload'.[39m
+
+[31m[7m1[0m import jwt, { UserIDJwtPayload } from "jsonwebtoken";[39m
+[31m[7m [0m [91m              ~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/utils/tokenManager.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-03191535906592291.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-03191535906592291.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-10 23:36:33:3633 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-10 23:36:36:3636 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-10 23:37:58:3758 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-10 23:38:52:3852 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-10 23:38:59:3859 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-10 23:40:30:4030 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-11 00:05:14:514 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-11 20:24:11:2411 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-11 21:41:14:4114 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m9[0m - [91merror[0m[90m TS2339: [0mProperty 'sta' does not exist on type 'Response<any, Record<string, any>>'.[39m
+
+[31m[7m14[0m     res.sta[39m
+[31m[7m  [0m [91m        ~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m9[0m - [91merror[0m[90m TS2339: [0mProperty 'sta' does not exist on type 'Response<any, Record<string, any>>'.[39m
+
+[31m[7m14[0m     res.sta[39m
+[31m[7m  [0m [91m        ~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 21:56:07:567 
+       [31merror[39m: [31muncaughtException: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31mError: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts:7:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 21:56:11:5611 
+       [31merror[39m: [31muncaughtException: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31mError: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts:7:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 21:56:18:5618 
+       [31merror[39m: [31muncaughtException: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31mError: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts:7:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 21:56:43:5643 
+       [31merror[39m: [31muncaughtException: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31mError: Cannot find module 'User/controllers/updateUserController'[39m
+[31mRequire stack:[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/app.ts[39m
+[31m- /media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/index.ts[39m
+[31m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m
+[31m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/routes/userRoutes.ts:7:1)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:00:59:059 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:user)[39m
+[31m[7m  [0m [91m                              ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:user)[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:user)[39m
+[31m[7m  [0m [91m                              ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:user)[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:01:02:12 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                              ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                              ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:01:06:16 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                                ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                                ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:01:09:19 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":user)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":user)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:01:11:111 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user": user)[39m
+[31m[7m  [0m [91m                                 ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user": user)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user": user)[39m
+[31m[7m  [0m [91m                                 ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user": user)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:01:53:153 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                              ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                              ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:02:09:29 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user:user})[39m
+[31m[7m  [0m [91m                              ~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user:user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user:user})[39m
+[31m[7m  [0m [91m                              ~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user:{user:user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-600490076651381.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-600490076651381.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:02:52:252 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m15[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'next'.[39m
+
+[31m[7m15[0m     next(error);[39m
+[31m[7m  [0m [91m    ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user})[39m
+[31m[7m  [0m [91m                              ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m17[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m17[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m15[0m:[93m5[0m - [91merror[0m[90m TS2304: [0mCannot find name 'next'.[39m
+
+[31m[7m15[0m     next(error);[39m
+[31m[7m  [0m [91m    ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m30[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user})[39m
+[31m[7m  [0m [91m                             ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m31[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m13[0m     res.status(200).json(user})[39m
+[31m[7m  [0m [91m                              ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m17[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m17[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:02:57:257 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m26[0m - [91merror[0m[90m TS2304: [0mCannot find name 'useruser'.[39m
+
+[31m[7m13[0m     res.status(200).json(useruser)[39m
+[31m[7m  [0m [91m                         ~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m26[0m - [91merror[0m[90m TS2304: [0mCannot find name 'useruser'.[39m
+
+[31m[7m13[0m     res.status(200).json(useruser)[39m
+[31m[7m  [0m [91m                         ~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:03:33 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" user)[39m
+[31m[7m  [0m [91m                                ~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:07:37 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:19:319 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2362: [0mThe left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m42[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                         ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2362: [0mThe left-hand side of an arithmetic operation must be of type 'any', 'number', 'bigint' or an enum type.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                  ~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m42[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                         ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user" : user | null)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:24:324 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.[39m
+
+[31m[7m13[0m     res.status(200).json("user)[39m
+[31m[7m  [0m [91m                               [0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.[39m
+
+[31m[7m13[0m     res.status(200).json("user)[39m
+[31m[7m  [0m [91m                               [0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:26:326 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.[39m
+
+[31m[7m13[0m     res.status(200).json("user!)[39m
+[31m[7m  [0m [91m                                [0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1002: [0mUnterminated string literal.[39m
+
+[31m[7m13[0m     res.status(200).json("user!)[39m
+[31m[7m  [0m [91m                                [0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m14[0m:[93m3[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m14[0m   } catch (error) {[39m
+[31m[7m  [0m [91m  ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:36:336 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":)[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:39:339 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{})[39m
+[31m[7m  [0m [91m                                ~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{})[39m
+[31m[7m  [0m [91m                                ~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:42:342 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                                ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                                ~~~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m32[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json("user":{user})[39m
+[31m[7m  [0m [91m                               ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:53:353 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m29[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({""})[39m
+[31m[7m  [0m [91m                            ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m29[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({""})[39m
+[31m[7m  [0m [91m                            ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:03:55:355 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"})[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"})[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:04:00:40 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user":})[39m
+[31m[7m  [0m [91m                                 ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user":})[39m
+[31m[7m  [0m [91m                                 ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:04:01:41 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"})[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"})[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-11 22:04:07:47 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                 ~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m35[0m - [91merror[0m[90m TS2554: [0mExpected 0-1 arguments, but got 2.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                  ~~~~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m33[0m - [91merror[0m[90m TS1005: [0m':' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                ~[0m[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m13[0m:[93m34[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m13[0m     res.status(200).json({"user"}:user)[39m
+[31m[7m  [0m [91m                                 ~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-15735716431127855.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-15735716431127855.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/Jugueteria/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-16 09:33:32:3332 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:20:32:2032 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:20:35:2035 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:23:12:2312 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:37:12:3712 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:40:49:4049 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:42:25:4225 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:42:28:4228 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 10:42:29:4229 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 11:11:28:1128 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 11:34:33:3433 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 11:34:48:3448 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 11:34:52:3452 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 11:35:20:3520 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-16 18:03:52:352 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-19 00:25:19:2519 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-19 07:34:29:3429 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
+2022-05-19 07:55:37:5537 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/routes/toyRoutes.ts[0m:[93m16[0m:[93m29[0m - [91merror[0m[90m TS2552: [0mCannot find name 'getToyByIdController'. Did you mean 'getAllToyController'?[39m
+
+[31m[7m16[0m routerToy.route("/:id").get(getToyByIdController);[39m
+[31m[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/routes/toyRoutes.ts[0m:[93m16[0m:[93m29[0m - [91merror[0m[90m TS2552: [0mCannot find name 'getToyByIdController'. Did you mean 'getAllToyController'?[39m
+
+[31m[7m16[0m routerToy.route("/:id").get(getToyByIdController);[39m
+[31m[7m  [0m [91m                            ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Toy/routes/toyRoutes.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 08:28:26:2826 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/controllers/getToyById.ts[0m:[93m12[0m:[93m24[0m - [91merror[0m[90m TS2552: [0mCannot find name 'getOneToyByIdService'. Did you mean 'getOneUserByIdService'?[39m
+
+[31m[7m12[0m     const user = await getOneToyByIdService(id);[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/controllers/getToyById.ts[0m:[93m12[0m:[93m24[0m - [91merror[0m[90m TS2552: [0mCannot find name 'getOneToyByIdService'. Did you mean 'getOneUserByIdService'?[39m
+
+[31m[7m12[0m     const user = await getOneToyByIdService(id);[39m
+[31m[7m  [0m [91m                       ~~~~~~~~~~~~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Toy/controllers/getToyById.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 10:40:27:4027 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 10:40:50:4050 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 10:40:55:4055 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 10:41:08:418 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-07536498380524392.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-07536498380524392.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 11:52:52:5252 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-17101950732683924.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-17101950732683924.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 11:55:17:5517 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-4625619686145326.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-4625619686145326.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 11:57:56:5756 
+       [31merror[39m: [31muncaughtException: Cannot overwrite `Toy` model once compiled.[39m
+[31mOverwriteModelError: Cannot overwrite `Toy` model once compiled.[39m
+[31m    at Mongoose.model (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/mongoose/lib/index.js:508:13)[39m
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Order/entity/models/OrderModel.ts:5:32)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-39297884543624706.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-39297884543624706.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 12:52:12:5212 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/routes/toyRoutes.ts[0m:[93m18[0m:[93m30[0m - [91merror[0m[90m TS2304: [0mCannot find name 'create'.[39m
+
+[31m[7m18[0m routerToy.route("/toy").post(create);[39m
+[31m[7m  [0m [91m                             ~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/Toy/routes/toyRoutes.ts[0m:[93m18[0m:[93m30[0m - [91merror[0m[90m TS2304: [0mCannot find name 'create'.[39m
+
+[31m[7m18[0m routerToy.route("/toy").post(create);[39m
+[31m[7m  [0m [91m                             ~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/Toy/routes/toyRoutes.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-39297884543624706.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-39297884543624706.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 12:55:16:5516 
+       [31merror[39m: [31merror creating a new project service[39m 
+  
+       instance: services 
+
+       fn:createNewProjectService 
+
+       trace: Toy validation failed: name: name is required, image: image is required, description: description is required
+2022-05-19 12:55:16:5516 
+       [31merror[39m: [31merror on create toy controller[39m 
+  
+       instance: controller 
+
+       fn:createToyController 
+
+       trace: Error creating a new project Toy validation failed: name: name is required, image: image is required, description: description is required
+2022-05-19 13:28:43:2843 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/updateUserController.ts[0m:[93m7[0m:[93m31[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'string'.[39m
+
+[31m[7m7[0m     const userId = req.userId.id;[39m
+[31m[7m [0m [91m                              ~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/updateUserController.ts[0m:[93m7[0m:[93m31[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'string'.[39m
+
+[31m[7m7[0m     const userId = req.userId.id;[39m
+[31m[7m [0m [91m                              ~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/controllers/updateUserController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-39297884543624706.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-39297884543624706.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 13:30:11:3011 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m10[0m:[93m22[0m - [91merror[0m[90m TS2339: [0mProperty 'use' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.[39m
+
+[31m[7m10[0m   const { id } = req.use;[39m
+[31m[7m  [0m [91m                     ~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m10[0m:[93m22[0m - [91merror[0m[90m TS2339: [0mProperty 'use' does not exist on type 'Request<ParamsDictionary, any, any, ParsedQs, Record<string, any>>'.[39m
+
+[31m[7m10[0m   const { id } = req.use;[39m
+[31m[7m  [0m [91m                     ~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-39297884543624706.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-39297884543624706.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 13:30:13:3013 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m10[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'String'.[39m
+
+[31m[7m10[0m   const { id } = req.userId;[39m
+[31m[7m  [0m [91m          ~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/controllers/getUserByIdController.ts[0m:[93m10[0m:[93m11[0m - [91merror[0m[90m TS2339: [0mProperty 'id' does not exist on type 'String'.[39m
+
+[31m[7m10[0m   const { id } = req.userId;[39m
+[31m[7m  [0m [91m          ~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/controllers/getUserByIdController.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-39297884543624706.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-39297884543624706.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:06:09:69 
+       [31merror[39m: [31merror creating a new order service[39m 
+  
+       instance: services 
+
+       fn:createNewProjectService 
+
+       trace: Order validation failed: shippingAddress.country: Path `shippingAddress.country` is required., shippingAddress.postalCode: Path `shippingAddress.postalCode` is required., shippingAddress.city: Path `shippingAddress.city` is required., shippingAddress.address: Path `shippingAddress.address` is required., itemPrice: item Price is required to create a review, user: an user is required to create a review
+2022-05-19 14:06:09:69 
+       [31merror[39m: [31merror on create order controller[39m 
+  
+       instance: controller 
+
+       fn:cretaeOrderController 
+
+       trace: Error creating a new order Order validation failed: shippingAddress.country: Path `shippingAddress.country` is required., shippingAddress.postalCode: Path `shippingAddress.postalCode` is required., shippingAddress.city: Path `shippingAddress.city` is required., shippingAddress.address: Path `shippingAddress.address` is required., itemPrice: item Price is required to create a review, user: an user is required to create a review
+2022-05-19 14:27:47:2747 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:27:55:2755 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authToken'.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m8[0m - [91merror[0m[90m TS2304: [0mCannot find name 'authToken'.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m       ~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:27:59:2759 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {token},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m14[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {token},[39m
+[31m[7m  [0m [91m             ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {token},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m14[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {token},[39m
+[31m[7m  [0m [91m             ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:28:03:283 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:28:23:2823 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:28:33:2833 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m24[0m:[93m5[0m - [91merror[0m[90m TS2741: [0mProperty 'authToken' is missing in type '{}' but required in type 'TokenResponse'.[39m
+
+[31m[7m24[0m     return {[39m
+[31m[7m  [0m [91m    ~~~~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m7[0m:[93m3[0m[39m
+[31m    [7m7[0m   authToken: string;[39m
+[31m    [7m [0m [96m  ~~~~~~~~~[0m[39m
+[31m    'authToken' is declared here.[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS1136: [0mProperty assignment expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m      ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m18[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m25[0m       {authToken},[39m
+[31m[7m  [0m [91m                 ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m26[0m:[93m6[0m - [91merror[0m[90m TS1472: [0m'catch' or 'finally' expected.[39m
+
+[31m[7m26[0m     };[39m
+[31m[7m  [0m [91m     ~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m27[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.[39m
+
+[31m[7m27[0m   } catch (error: any) {[39m
+[31m[7m  [0m [91m    ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m30[0m:[93m1[0m - [91merror[0m[90m TS1128: [0mDeclaration or statement expected.[39m
+
+[31m[7m30[0m };[39m
+[31m[7m  [0m [91m~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:28:47:2847 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:29:06:296 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:29:11:2911 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ uthToken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'uthToken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       uthToken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:23:3323 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:26:3326 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2552: [0mCannot find name 'token'. Did you mean 'tToken'?[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m11[0m[39m
+[31m    [7m21[0m     const tToken = createAuthToken({ id: user.id });[39m
+[31m    [7m  [0m [96m          ~~~~~~[0m[39m
+[31m    'tToken' is declared here.[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2552: [0mCannot find name 'token'. Did you mean 'tToken'?[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m  [96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m11[0m[39m
+[31m    [7m21[0m     const tToken = createAuthToken({ id: user.id });[39m
+[31m    [7m  [0m [96m          ~~~~~~[0m[39m
+[31m    'tToken' is declared here.[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:28:3328 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:31:3331 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:35:3335 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m48[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m21[0m     return const token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m                                               ~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m21[0m     return const token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m48[0m - [91merror[0m[90m TS2531: [0mObject is possibly 'null'.[39m
+
+[31m[7m21[0m     return const token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m                                               ~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m
+
+[31m[7m21[0m     return const token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:40:3340 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return  token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m13[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return  token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m            ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return  token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m13[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return  token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m            ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:43:3343 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:49:3349 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m5[0m - [91merror[0m[90m TS2322: [0mType 'string' is not assignable to type 'TokenResponse'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m21[0m:[93m12[0m - [91merror[0m[90m TS2304: [0mCannot find name 'token'.[39m
+
+[31m[7m21[0m     return token = createAuthToken({ id: user.id });[39m
+[31m[7m  [0m [91m           ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'token'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:33:56:3356 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:08:348 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:12:3412 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:28:3428 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'authtoken'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ authtoken: any; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, but 'authtoken' does not exist in type 'TokenResponse'. Did you mean to write 'authToken'?[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'authtoken'. Either declare one or provide an initializer.[39m
+
+[31m[7m25[0m       authtoken,[39m
+[31m[7m  [0m [91m      ~~~~~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:30:3430 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:45:3445 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:47:3447 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:34:47:3447 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-3414519970500409.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-3414519970500409.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 14:35:07:357 
+       [31merror[39m: [31muncaughtException: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31mError: ⨯ Unable to compile TypeScript:[39m
+[31m[96msrc/User/services/authLoginService.ts[0m:[93m25[0m:[93m7[0m - [91merror[0m[90m TS2322: [0mType '{ token: string; }' is not assignable to type 'TokenResponse'.[39m
+[31m  Object literal may only specify known properties, and 'token' does not exist in type 'TokenResponse'.[39m
+
+[31m[7m25[0m       token,[39m
+[31m[7m  [0m [91m      ~~~~~[0m[39m
+
+[31m    at Object.<anonymous> (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/src/User/services/authLoginService.ts:1:7)[39m
+[31m    at Module._compile (node:internal/modules/cjs/loader:1103:14)[39m
+[31m    at Module._compile (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/source-map-support/source-map-support.js:568:25)[39m
+[31m    at Module.m._compile (/tmp/ts-node-dev-hook-5323511379322248.js:69:33)[39m
+[31m    at Module._extensions..js (node:internal/modules/cjs/loader:1155:10)[39m
+[31m    at require.extensions.<computed> (/tmp/ts-node-dev-hook-5323511379322248.js:71:20)[39m
+[31m    at Object.nodeDevHook [as .ts] (/media/reynaldo/f8db0900-b42d-4b5d-971f-4716687f2a60/Make It Real/Personal Proyects/TOYSTORE/backendtoy/node_modules/ts-node-dev/lib/hook.js:63:13)[39m
+[31m    at Module.load (node:internal/modules/cjs/loader:981:32)[39m
+[31m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[31m    at Module.require (node:internal/modules/cjs/loader:1005:19)[39m 
+  
+       instance: undefined 
+
+       fn:undefined 
+
+       trace: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+2022-05-19 15:24:40:2440 
+       [31merror[39m: [31mError creating user account[39m 
+  
+       instance: services 
+
+       fn:undefined 
+
+       trace: error creating user with email reynaldo.quispe.27@unsch.edu.pe
